@@ -1,12 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}
-
 # Intervention & EbHC - Quiz Tag 1
   
 ### Frage 1  
